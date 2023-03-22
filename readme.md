@@ -91,8 +91,7 @@ npm run dev
 
 > Have a look at [contribution docs](./contributing.md) for how to update any of the roadmaps
 
-- Add content to roadmaps
-- Add new roadmaps
+- Add content to roadmaps and Add new roadmaps
 - Suggest changes to existing roadmaps
 - Discuss ideas in issues
 - Spread the word
